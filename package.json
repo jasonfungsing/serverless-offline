@@ -1,7 +1,7 @@
 {
   "name": "serverless-offline",
   "version": "6.1.4",
-  "description": "Emulate AWS λ and API Gateway locally when developing your Serverless project",
+  "description": "Jason ---- Emulate AWS λ and API Gateway locally when developing your Serverless project",
   "license": "MIT",
   "main": "dist/main.js",
   "type": "commonjs",
